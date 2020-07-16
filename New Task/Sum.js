@@ -1,7 +1,7 @@
 let btnCLicked = 0; //reset
 let sum = 0; //reset
 let btnId = 3; //increase
-let colorArray = ["aquamarine", "darksalmon", "khaki"];
+let colorArray = ["red", "blue", "green"];
 let colorIndex = 2; //reset
 
 function addFunction(id) {
